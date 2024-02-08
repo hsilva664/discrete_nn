@@ -1,0 +1,7 @@
+*.pyc
+microworlds/logs/
+microworlds/var_experiments/true/logs/
+microworlds/var_experiments/estimated/logs/
+masked_nn_regression/out/
+pruning/logs/
+pruning/data/
